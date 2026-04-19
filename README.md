@@ -2,8 +2,6 @@
 
 A full-stack web application for managing parking slots, bookings, and users — built with **React**, **Node.js/Express**, and **MongoDB**.
 
-> **SE ZG503 — Full Stack Application Development | BITS Pilani | 2024–2025**
-
 ---
 
 ## 🚀 Live Demo
