@@ -7,7 +7,7 @@ A full-stack web application for managing parking slots, bookings, and users —
 ## 🚀 Live Demo
 
 > Record your demo and add the Google Drive link here:  
-> 📹 **Demo Video:** [Google Drive Link](#)
+> 📹 **Demo Video:** [[Google Drive Link](https://drive.google.com/file/d/1Dx9omS-drgVFn8-9GObAHXA8v9JDfS1I/view)](#)
 
 ---
 
@@ -71,6 +71,7 @@ smart-parking/
 - Node.js v18+
 - npm v9+
 - MongoDB Atlas account (or local MongoDB)
+- Update your MongoDB url in config > db.js  
 
 ### Backend
 
